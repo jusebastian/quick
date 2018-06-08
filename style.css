@@ -531,6 +531,10 @@ p {
     color: #92CF5C;
 }
 
+.single-icon > img{
+    width: 60px;
+}
+
 .single-special > h4 {
     font-size: 22px;
     color: #FF6738;
@@ -613,6 +617,9 @@ p {
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
     transition-duration: 500ms;
+}
+.app-download-btn a img{
+    margin-left: 19px; 
 }
 
 .app-download-btn a p {
