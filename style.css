@@ -496,6 +496,12 @@ p {
     margin-left: 10px;
 }
 
+.get-start-area .submit a{
+    color: #fff;
+    height: 50px;
+    line-height: 30px;
+    text-align: center;
+}
 .get-start-area .submit:hover {
     background: #FF6738;
     color: #fff;
@@ -1022,19 +1028,19 @@ p {
 }
 
 .get-started-button > a {
-    background: #ffffff;
+    background: #92CF5C;
     height: 45px;
     min-width: 155px;
     display: inline-block;
     text-align: center;
     line-height: 45px;
-    color: #92CF5C;
+    color: #ffffff;
     font-weight: 500;
     border-radius: 23px 23px 23px 0;
 }
 
 .get-started-button > a:hover {
-    background: #FF6738;
+    background: #92CF5C;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
